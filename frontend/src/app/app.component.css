@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+.tfont{
+    font-family: 'Rock Salt', cursive;
+}
+
+
+
+footer{
+    
+    position: sticky;
+    top: 100%;
+}
+footer p{
+    margin-bottom: 0;
+}
